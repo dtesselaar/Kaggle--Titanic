@@ -1,0 +1,2 @@
+# SharpestMinds
+Kaggle competition: Titanic
